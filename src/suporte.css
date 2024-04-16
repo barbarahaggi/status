@@ -1,0 +1,32 @@
+.suporte{
+    width: 70rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4rem;
+    display: flex;
+    gap: 5rem;
+    align-items: center;
+   
+  }
+
+  .duvidas{
+    color: #4F4F4F;
+  }
+
+  .botao{
+    font-size: 1rem;
+    width: 8rem;
+    border: none;
+    border-radius: 3px;
+    background-color: #470e7a;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    height: 2rem;
+  }
+
+  .botao:hover{
+    background-color: #811fd6;
+    transition: 3s;
+  }
+  

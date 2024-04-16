@@ -1,0 +1,27 @@
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 40px;
+    max-width: 100%;
+    background: #470e7a;
+    transition: all 0.5s;
+}
+
+.navigation .logo{
+    color: white;
+    font-size: 1.7rem;
+    font-weight: 600;
+}
+
+.bandeira{
+  float: right;
+  padding: 15px 20px;
+  margin-right: 6rem;
+}
+
+.navigation img{
+    width: 2rem;
+    cursor: pointer;
+}
+
